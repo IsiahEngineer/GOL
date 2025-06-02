@@ -1,2 +1,2 @@
-loadstring(game:HttpGet(‘https://raw.githubusercontent.com/IsiahEngineer/GOL/refs/heads/main/GOLBACKWARDS’)()
-loadstring(game:HttpGet(‘https://raw.githubusercontent.com/IsiahEngineer/GOL/refs/heads/main/NIMDABACKWARDS’)()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IsiahEngineer/GOL/refs/heads/main/GOLBACKWARDS"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IsiahEngineer/GOL/refs/heads/main/NIMDABACKWARDS"))()
